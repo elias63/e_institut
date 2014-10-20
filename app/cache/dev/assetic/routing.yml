@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'P:/SIPPE_M2/E-institut 2014/app/config/routing_dev.yml'
